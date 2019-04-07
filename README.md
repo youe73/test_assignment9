@@ -26,6 +26,9 @@ This test assignment is initiated by the following steps:
 
 ![image](https://user-images.githubusercontent.com/40825848/55681784-b1eb5800-592a-11e9-996e-6c8d2f47585d.png)
 
+The csv file set up is done creating a simple csv file just for the sake of illustration
+
+
 Next is the set up in Blazemeter, which did the test scenario with 50 users in Singapore 
 
 
