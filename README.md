@@ -3,7 +3,7 @@
 This test assignment is initiated by the following steps:
 
 1 .Start the jmeter and add the 3 thread groups with the requested users and ramptime. 
-2 .The Target site is a test url site called http://104.248.249.47/ . This site also provide JSON data and is simple constructed with id, name, age, courses.
+2 .The Target site is a test url site called http://104.248.249.47/ . This site also provide JSON data and is simple constructed with id, name, age, courses. The following requirement is added. Please see the screenshot below.
 
 
 
@@ -26,7 +26,10 @@ This test assignment is initiated by the following steps:
 
 ![image](https://user-images.githubusercontent.com/40825848/55681784-b1eb5800-592a-11e9-996e-6c8d2f47585d.png)
 
+Next is the set up in Blazemeter, which did the test scenario with 50 users in Singapore 
+
 
 ![image](https://user-images.githubusercontent.com/40825848/55681796-c596be80-592a-11e9-9570-3f25d2190978.png)
 
-
+The final task combining jmeter with Junit/maven and selenium is done, but is not entirely satisfying. As the test/unit test could not be showed in the jmeter panel. The assignment (attempt) in intelliji is oploaded. 
+ 
